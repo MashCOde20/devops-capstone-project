@@ -1,0 +1,14 @@
+**As a** developer 
+**I need** to create an account microservice 
+**So that** it can keep track of the customers on my e-commerce website.
+      
+### Details and Assumptions
+    * expected to have a well-formed REST API that other microservices can call. 
+    *  This service initially needs to create, read, update, delete, and list customers.
+    * add the REST APIs to read, update, delete, and list accounts.
+
+### Acceptance Criteria     
+
+    Given [some context]
+    When [certain action is taken]
+    Then [the outcome of action is observed]
